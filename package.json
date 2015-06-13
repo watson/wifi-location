@@ -8,7 +8,7 @@
   "main": "./index.js",
   "dependencies": {
     "request": "~2.27.0",
-    "node-wifiscanner": "git://github.com/watson/node-wifiscanner.git#dd6114d"
+    "node-wifiscanner": "mauricesvay/node-wifiscanner#57cc21a"
   },
   "devDependencies": {
     "mocha": "*",
